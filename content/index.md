@@ -1,7 +1,7 @@
 ---
 title       : Life in Weeks
 description : A map representation of my life, where each week is a little box.
-start_date  : 2025-12-30
+start_date  : 2000-12-30
 end_year    : 2100
 ---
 
