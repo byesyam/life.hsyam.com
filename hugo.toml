@@ -1,4 +1,4 @@
-baseURL = 'https://weeks.hsyam.com/'
+baseURL = 'https://life.hsyam.com/'
 languageCode = 'en-us'
 title = 'Life in Weeks'
 disableKinds = ["taxonomy", "taxonomy"]
