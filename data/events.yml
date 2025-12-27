@@ -6,11 +6,12 @@
     - headline: "🐣 I was born"
       description: "I entered the world at 2222h in Singapore!"
       based: "Singapore"
-      doing: "I was tiny"
+      doing: "Me is tiny"
 
 "2007-01-02":
     - headline: "💍 Entered Primary School"
       description: "First day of Primary School!"
+      doing: "A student"
 
 "2012-11-30":
     - headline: "💔 Graduated from Primary School"
@@ -30,20 +31,16 @@
 
 "2020-05-29":
     - headline: "🐝 Graduated (online) from Temasek Polytechnic during Covid-19"
-      based: "Brooklyn"
-      doing: "Freelancing"
-      association: ""
       description: "Final week of diploma... mailed to my house!"
 
 "2020-10-22":
     - headline: "🚁 Enlisted to National Service for 2 years"
+      doing: "A soldier"
       description: "Posted to BMT in Pulau Tekong in the midst of Covid!"
 
 "2022-08-07":
     - headline: "👩‍✈️ Disrupted from National Service for University studies"
-      based: "Brooklyn"
-      doing: "Working"
-      association: "Lifehacker"
+      doing: "A student"
       description: "Early ORD to head to school!"
 
 "2022-08-08":
@@ -52,9 +49,7 @@
 
 "2024-08-05":
     - headline: "☀️ Moved to the Netherlands for Student Exchange Programme"
-      based: "San Diego"
-      doing: "Working"
-      association: "Lifehacker"
+      based: "Netherlands"
       description: "Studied at Erasmus University, Rotterdam for 6 months! First time in Europe too!"
 
 "2025-01-01":
@@ -63,12 +58,20 @@
 
 "2025-01-30":
     - headline: "📚 Back to Singapore"
+      based: "Singapore"
       description: "Exchange done. Total countries travelled: 21. Memories made: lifetime."
 
 "2025-02-03":
     - headline: "📱 First day of Internship at Lion Global Investors"
       description: "Went straight to work as a Trade Support intern!"
-      
+
+#"2024-08-05":
+#    - headline: "☀️ Moved to the Netherlands for Student Exchange Programme"
+#      based: "Netherlands"
+#      doing: "Working"
+#      association: "Lifehacker"
+#      description: "Studied at Erasmus University, Rotterdam for 6 months! First time in Europe too!"
+
 # Presidents
 #"2001-01-20":
 #    - headline: "🇺🇸 GW Bush inaugurated"
