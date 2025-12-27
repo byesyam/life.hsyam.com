@@ -31,26 +31,46 @@
       description: "First day of Diploma in Aviation Management & Services!"
       doing: "A diploma student"
 
+"2019-04-01":
+    - headline: "🛫 Internship at Changi Airport Group"
+      description: "First day as an Aviation Security intern!"
+      
 "2020-05-29":
-    - headline: "🎓 Graduated (online) from Temasek Polytechnic during Covid-19"
+    - headline: "🎓 Graduated (online) from Temasek Polytechnic"
       description: "Final week of diploma... mailed to my house!"
 
 "2020-10-22":
-    - headline: "🪖 Enlisted to National Service for 2 years"
+    - headline: "🔫 Enlisted for National Service"
       doing: "A soldier"
       description: "Posted to BMT in Pulau Tekong in the midst of Covid!"
 
 "2022-08-07":
-    - headline: "🏫 Disrupted from National Service for University studies"
+    - headline: "🪖 ORD-LOH!"
       description: "Early ORD to head to school!"
 
 "2022-08-08":
-    - headline: "📓 Entered National University of Singapore (NUS)"
+    - headline: "🏫 Entered National University of Singapore (NUS)"
       doing: "An undergraduate"
       description: "First day of Bachelor's in Business Administration!"
 
+"2022-10-03":
+    - headline: "🏨 Internship at Park Hotel Group"
+      description: "First day as a Finance intern!"
+
+"2023-05-02":
+    - headline: "💲 Internship at Etiqa Insurance Singapore"
+      description: "First day as a Takaful Distribution intern!"
+
+"2024-02-01":
+    - headline: "🙋 Appointed as Maybank Student Ambassador"
+      description: "Maybank represent!"
+
+"2024-05-01":
+    - headline: "🏦 Internship at Maybank Singapore"
+      description: "First day as an Islamic Banking intern!"
+    
 "2024-08-05":
-    - headline: "🇳🇱 Moved to the Netherlands for Student Exchange Programme"
+    - headline: "🇳🇱 Went to Netherlands for Exchange"
       based: "Netherlands"
       description: "Studied at Erasmus University, Rotterdam for 6 months! First time in Europe too!"
 
@@ -59,12 +79,12 @@
       description: "Celebrated alone watching the fireworks along The Erasmusbrug!"
 
 "2025-01-30":
-    - headline: "🇸🇬 Back to Singapore"
+    - headline: "🇸🇬 Back in Singapore"
       based: "Singapore"
       description: "Exchange done. Total countries travelled: 21. Memories made: lifetime."
 
 "2025-02-03":
-    - headline: "📈 First day of Internship at Lion Global Investors"
+    - headline: "📈 Internship at Lion Global Investors"
       description: "Went straight to work as a Trade Support intern!"
 
 #"2024-08-05":
