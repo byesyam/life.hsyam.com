@@ -3,8 +3,8 @@
 # The date should match start_date in content/index.md.
 #
 "2000-12-30":
-    - headline: "🐣 I was born"
-      description: "I entered the world at 2222h in Singapore!"
+    - headline: "🐣 Hello World!"
+      description: "I was born at 2222h in Singapore!"
       based: "Singapore"
       doing: "Me is tiny"
 
@@ -78,7 +78,7 @@
     - headline: "🎉 First New Year's in a Foreign Country"
       description: "Celebrated alone watching the fireworks along The Erasmusbrug!"
 
-"2025-01-30":
+"2025-02-01":
     - headline: "🇸🇬 Back in Singapore"
       based: "Singapore"
       description: "Exchange done. Total countries travelled: 21. Memories made: lifetime."
