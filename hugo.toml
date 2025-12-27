@@ -1,6 +1,6 @@
 baseURL = 'https://life.hsyam.com/'
 languageCode = 'en-us'
-title = 'Life in Weeks'
+title = 'My Life, In Weeks'
 disableKinds = ["taxonomy", "taxonomy"]
 enableEmoji = true
 
