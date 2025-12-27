@@ -11,7 +11,7 @@
 "2007-01-02":
     - headline: "💍 Entered Primary School"
       description: "First day of Primary School!"
-      doing: "A student"
+      doing: "A primary school student"
 
 "2012-11-30":
     - headline: "💔 Graduated from Primary School"
@@ -20,6 +20,7 @@
 "2013-01-02":
     - headline: "👩‍💻 Entered Secondary School"
       description: "First day of Secondary School!"
+      doing: "A secondary school student"
 
 "2016-11-30":
     - headline: "📸 Graduated from Secondary School"
@@ -28,6 +29,7 @@
 "2017-04-24":
     - headline: "🕯️ Entered Temasek Polytechnic"
       description: "First day of Diploma in Aviation Management & Services!"
+      doing: "A diploma student"
 
 "2020-05-29":
     - headline: "🐝 Graduated (online) from Temasek Polytechnic during Covid-19"
@@ -40,7 +42,7 @@
 
 "2022-08-07":
     - headline: "👩‍✈️ Disrupted from National Service for University studies"
-      doing: "A student"
+      doing: "An undergraduate"
       description: "Early ORD to head to school!"
 
 "2022-08-08":
