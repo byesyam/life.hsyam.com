@@ -9,62 +9,62 @@
       doing: "Me is tiny"
 
 "2007-01-02":
-    - headline: "💍 Entered Primary School"
+    - headline: "👶 Entered Primary School"
       description: "First day of Primary School!"
       doing: "A primary school student"
 
 "2012-11-30":
-    - headline: "💔 Graduated from Primary School"
+    - headline: "🎓 Graduated from Primary School"
       description: "Final week of Primary School!"
 
 "2013-01-02":
-    - headline: "👩‍💻 Entered Secondary School"
+    - headline: "👦 Entered Secondary School"
       description: "First day of Secondary School!"
       doing: "A secondary school student"
 
 "2016-11-30":
-    - headline: "📸 Graduated from Secondary School"
+    - headline: "🎓 Graduated from Secondary School"
       description: "Last week of GCE O's!"
 
 "2017-04-24":
-    - headline: "🕯️ Entered Temasek Polytechnic"
+    - headline: "✈️ Entered Temasek Polytechnic"
       description: "First day of Diploma in Aviation Management & Services!"
       doing: "A diploma student"
 
 "2020-05-29":
-    - headline: "🐝 Graduated (online) from Temasek Polytechnic during Covid-19"
+    - headline: "🎓 Graduated (online) from Temasek Polytechnic during Covid-19"
       description: "Final week of diploma... mailed to my house!"
 
 "2020-10-22":
-    - headline: "🚁 Enlisted to National Service for 2 years"
+    - headline: "🪖 Enlisted to National Service for 2 years"
       doing: "A soldier"
       description: "Posted to BMT in Pulau Tekong in the midst of Covid!"
 
 "2022-08-07":
-    - headline: "👩‍✈️ Disrupted from National Service for University studies"
-      doing: "An undergraduate"
+    - headline: "🏫 Disrupted from National Service for University studies"
       description: "Early ORD to head to school!"
 
 "2022-08-08":
-    - headline: "✈️ Entered National University of Singapore (NUS)"
+    - headline: "📓 Entered National University of Singapore (NUS)"
+      doing: "An undergraduate"
       description: "First day of Bachelor's in Business Administration!"
 
 "2024-08-05":
-    - headline: "☀️ Moved to the Netherlands for Student Exchange Programme"
+    - headline: "🇳🇱 Moved to the Netherlands for Student Exchange Programme"
       based: "Netherlands"
       description: "Studied at Erasmus University, Rotterdam for 6 months! First time in Europe too!"
 
 "2025-01-01":
-    - headline: "✅ First New Year's in a Foreign Country"
+    - headline: "🎉 First New Year's in a Foreign Country"
       description: "Celebrated alone watching the fireworks along The Erasmusbrug!"
 
 "2025-01-30":
-    - headline: "📚 Back to Singapore"
+    - headline: "🇸🇬 Back to Singapore"
       based: "Singapore"
       description: "Exchange done. Total countries travelled: 21. Memories made: lifetime."
 
 "2025-02-03":
-    - headline: "📱 First day of Internship at Lion Global Investors"
+    - headline: "📈 First day of Internship at Lion Global Investors"
       description: "Went straight to work as a Trade Support intern!"
 
 #"2024-08-05":
