@@ -94,14 +94,6 @@
 #      association: "Lifehacker"
 #      description: "Studied at Erasmus University, Rotterdam for 6 months! First time in Europe too!"
 
-# Presidents
-#"2001-01-20":
-#    - headline: "🇺🇸 GW Bush inaugurated"
-#"2009-01-20":
-#    - headline: "🇺🇸 Obama inaugurated"
-#"2017-01-20":
-#    - headline: "🇺🇸 Cheeto inaugurated"
-#"2021-01-20":
-#    - headline: "🇺🇸 Biden inaugurated"
-#"2025-01-20":
-#    - headline: "🇺🇸 Cheeto inaugurated"
+# Key events
+"2020-03-01":
+    - headline: "😷 COVID-19 Pandemic"
